@@ -9,7 +9,7 @@ A [babette example](https://github.com/richelbilderbeek/babette_examples).
 
 ## Example #5: Birth-Death tree prior
 
-![Example #5: Birth-Death tree prior](bd_2_4.png)
+![Example #5: Birth-Death tree prior](pics/bd_2_4.png)
 
 ```{r example_5}
 posterior <- bbt_run(
