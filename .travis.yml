@@ -17,7 +17,6 @@ r_github_packages:
   - ropensci/beautier
   - ropensci/beastier
   - ropensci/mauricer
-  - ropensci/babette
   - KlausVigo/phangorn
   - ropensci/spelling
 
